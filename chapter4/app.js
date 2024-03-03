@@ -12,3 +12,9 @@ var-varible = 23;
 var var = "illegal";
 var function = 'illegal';
 
+// Q3 
+document.write("Rules for Naming j.s");
+var variable1 = "varible contain only : $ , _ and numbers"
+var variable2 = "\nvariables are case senstive";
+var variable3 = "\nvariable should not be a keyword";
+document.write(variable1,variable2,variable3); 
